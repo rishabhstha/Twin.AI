@@ -1,10 +1,11 @@
 import React, { Component } from "react";
-import { Image, Row, Col } from "react-bootstrap";
+import { Image, Row, Col, Modal } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import { logout } from "./config/helpers/auth";
 import FileUploader from "react-firebase-file-uploader";
 import firebase from "firebase";
 import { ScaleLoader } from "react-spinners";
+// import Modal from "./Modal";
 
 const appTokenKey = "appToken";
 export default class Home extends Component {
