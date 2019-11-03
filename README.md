@@ -10,3 +10,5 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+We used https://itnext.io/tutorial-build-a-react-firebase-and-google-cloud-vision-machine-learning-api-app-in-1-hour-e7eb7584aed4 as our reference
+
