@@ -1,4 +1,7 @@
 
+It is an intelligent app in which you upload a photo of yourself then returns a list of images of people that look just like you according to Google who thinks you look alike
+
+
 Clone the project using git clone <link to github repo> in your terminal and then change your directory to new github folder and run 'yarn start'
 Make sure you have installed important files like npm, node, firebase installed on your computer
 
